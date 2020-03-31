@@ -1,0 +1,9 @@
+{
+  "counters": {
+    "data": [
+      { "id": 1, "title": "Toilet Paper Roll", count: 1 },
+      { "id": 2, "title": "Masks", count: 1 },
+      { "id": 3, "title": "Hand Sanitizer", count: 1 }
+    ]
+  }
+}
